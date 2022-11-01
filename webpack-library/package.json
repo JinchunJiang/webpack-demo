@@ -1,0 +1,17 @@
+{
+  "name": "webpack-library-test-jjc",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "terser-webpack-plugin": "^4.2.0",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
